@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assistenza Clienti - Il tuo sito web</title>
+    <link rel="stylesheet" type="text/css" href="stile.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Assistenza Clienti</h1>
+    </div>
+    <div class="nav">
+       <a href="homepage.html">Home</a>
+        <a href="prodotti.html">Prodotti</a>
+       <a href="chi_siamo.html">Chi Siamo</a>
+        <a href="#">Assistenza Clienti</a>
+        <a href="dove_ci_troviamo.html">Dove ci troviamo</a>
+    </div>
+    <div class="content">
+        <h2>Contattaci</h2>
+        <p>Puoi contattarci al seguente numero: 123-456-7890</p>
+        <p>O inviaci un'email a: besSvapoebasta.migliorisvapo.it</p>
+        <h2>FAQ</h2>
+        <p>Qui puoi inserire le domande frequenti dei tuoi clienti e le relative risposte.</p>
+    </div>
+    <div class="footer">
+        <p>© 2024 Il tuo sito web</p>
+    </div>
+</body>
+</html>
